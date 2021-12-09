@@ -19,7 +19,7 @@ namespace MVCPrimaryapp.Controllers
         }
         public ActionResult About()
         {
-            ViewBag.dis = "This is About Us Page info getting from controller";
+            ViewBag.dis = "This is About Us Page info getting from controller as sample";
             return View();
         }
 
